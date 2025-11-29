@@ -27,9 +27,8 @@ Perfect for content creators, photographers, and players who want a clean, immer
 
 ## Features
 * **Perfect Placement:** The F1 button is located at the **Top-Right Corner** of the screen, making it super easy to reach with your thumb while playing.
-* **Hide HUD:** Removes hearts, hunger bar, and XP bar.
+* **Hide HUD:** Removes Buttons, hearts, hunger bar, and XP bar.
 * **Invisible Controls:** Hides the D-pad, jump button, and inventory buttons.
-* **Cinematic Mode:** Removes the hand/item from the screen.
 * **Lag Free:** Extremely lightweight.
 * **Version Support:** Works smoothly on **v1.16 to v1.21+**.
 
