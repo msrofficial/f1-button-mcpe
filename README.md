@@ -42,7 +42,7 @@ Perfect for content creators, photographers, and players who want a clean, immer
 
 | 🔴 Before (HUD Visible) | 🟢 After (F1 Enabled) |
 | :---: | :---: |
-| ![Before](image/withhud.jpg) | ![After](image/nohud.jpg) |
+| ![Before](image/withhud.png) | ![After](image/nohud.png) |
 | *Cluttered Screen* | *Clean Cinematic Look* |
 
 ---
