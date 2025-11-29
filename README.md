@@ -14,7 +14,7 @@
 
   <p><b>If you find this pack useful, please give this repository a Star!</b></p>
   
-  [Report Bug](https://github.com/msrofficial/f1-button-mcpe/issues) • [Request Feature](https://github.com/msrofficial/f1-button-mcpe/issues)
+  [Report Bug or Request Feature](https://github.com/msrofficial/f1-button-mcpe/issues)
 </div>
 
 ---
@@ -57,14 +57,14 @@ We provide two formats:
 ### Option 1: .mcpack (Recommended)
 *Best for mobile (Android/iOS) and Windows 10/11 users.*
 
-1.  Download the **`F1.Button.v2.mcpack`** file from Releases.
+1.  Download the **`F1.Button.V2.by.MSR.Sakibur.mcpack`** file from Releases.
 2.  Open the file directly. Minecraft will open and say "Import Started".
 3.  Go to **Settings > Global Resources > My Packs** and activate it.
 
 ### Option 2: .zip (Manual)
 *Use this if the .mcpack version doesn't work for you.*
 
-1.  Download the **`F1.Button.v2.zip`** file.
+1.  Download the **`F1.Button.V2.by.MSR.Sakibur.zip`** file.
 2.  Extract the zip file.
 3.  Move the extracted folder to: 
     * `games/com.mojang/resource_packs` (For older Android versions)
